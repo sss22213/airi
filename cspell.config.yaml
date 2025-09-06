@@ -17,6 +17,7 @@ words:
   - astrojs
   - Attributify
   - attw
+  - audia
   - audioworklet
   - autoplay
   - awilix
@@ -84,6 +85,7 @@ words:
   - elevenlabs
   - Equirectangular
   - esaxx
+  - eventa
   - Factorio
   - feaxios
   - formkit
@@ -138,6 +140,7 @@ words:
   - Maru
   - matchall
   - mdit
+  - mediabunny
   - micvad
   - mineflayer
   - mingcute
@@ -206,6 +209,7 @@ words:
   - rmcp
   - rolldown
   - rushstack
+  - rustfft
   - Rynco
   - Saccade
   - saccades
@@ -238,6 +242,7 @@ words:
   - tresjs
   - tsdown
   - turborepo
+  - unbird
   - unbundle
   - uncrypto
   - unhead
@@ -258,6 +263,7 @@ words:
   - waapi
   - wavefile
   - webgpu
+  - webworkers
   - weeb
   - wgpu
   - wlipsync
